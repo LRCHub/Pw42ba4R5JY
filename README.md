@@ -1,0 +1,69 @@
+# ¥ellow Bucks – Drop It
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Ayo Bitch I got the bops
+Bitch I got the bops
+ヒットチューンこさえるオレ達は
+What what you talk about
+またオレの噂
+知らねえやつはいねえYou know ¥ellow Bucks
+脱げそうなパンツだなPocket racked up
+買わなきゃなビトンとファレルのBelt
+誰でもラッパーなんて簡単になれる
+でもパチモンにはできないぜ前ならえ
+左手にマイク、右に酒瓶
+調子がいいクラブ帰りのタクシー
+足りてねえ頭で作る作品
+路上の壁にSpitまるでバンクシー
+I'm an artist ダブることなく
+あいつら待ってるオレらの新作
+だからStudioでFuckしてDropするBops
+アングラを抜け出しJackするJap
+Drop it like it’s hot drop, drop it like it’s
+hot
+Drop it like it’s hot drop, drop it like it’s
+hot
+Drop it like it’s hot drop, drop it like it’s
+hot
+Ayo 揺らしなBounce bady
+Yeah We got the bops
+Drop it like it’s hot drop, drop it like it’s
+hot
+Drop it like it’s hot drop, drop it like it’s
+hot
+Drop it like it’s hot drop, drop it like it’s
+hot
+飽きるほど踊れYou know we got the bops
+集まるHeadz 僕歌ったら
+黙ってても増えてく口座の中
+笑いが止まらねぇ儲かったら
+でも満たされないアンデットバン
+Let's party 落としな女とタンテの針
+笑う仲間達呑み干す酒
+ホントどいつもDirty
+あの子の彼氏の名前はCharlie
+Ah もっと腰を振って
+踊るBooty 映る最高の眺めAh Ah
+朝まで騒げ曲で踊らすのが僕の幸せ
+Hi hater
+増えれば増えていく程
+価値が付くスキルはDiamond
+まぁしょうがないよホント
+寄ってくる詐欺師に雑魚I know
+Drop it like it’s hot drop, drop it like it’s
+hot
+Drop it like it’s hot drop, drop it like it’s
+hot
+Drop it like it’s hot drop, drop it like it’s
+hot
+鼻ほじって作ったのにできてるBOPS
+Drop it like it’s hot drop, drop it like it’s
+hot
+Drop it like it’s hot drop, drop it like it’s
+hot
+Drop it like it’s hot drop, drop it like it’s
+hot
+お前の鼓膜にHIT WILYWNKA&BUCKS
+```
