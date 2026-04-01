@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Drop It",
+  "base_artist": "¥ellow Bucks",
+  "createdAt": "2026-04-01T15:52:28.583935Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drop It / Scooter",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/01_Drop_It___Scooter_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drop It Doe Eyes",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/02_Drop_It_Doe_Eyes_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drop It Like It's Hot (feat. B.G. & Mannie Fresh)",
+      "artist": "Lil Wayne feat. B.G. & Mannie Fresh",
+      "has_synced": true,
+      "path": "select/03_Drop_It_Like_It's_Hot_(feat._B.G._&_Mannie_Fresh)_Lil_Wayne_feat._B.G._&_Mannie_Fresh.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Drop It Like It's Hot (feat. B.G. & Mannie Fresh)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/04_Drop_It_Like_It's_Hot_(feat._B.G._&_Mannie_Fresh)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Drop It",
+      "artist": "Angel Haze",
+      "has_synced": true,
+      "path": "select/05_Drop_It_Angel_Haze.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Drop It (An Old Disguise)",
+      "artist": "REO Speedwagon",
+      "has_synced": true,
+      "path": "select/06_Drop_It_(An_Old_Disguise)_REO_Speedwagon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Drop It Like It's Hot",
+      "artist": "Snoop Dogg",
+      "has_synced": false,
+      "path": "select/07_Drop_It_Like_It's_Hot_Snoop_Dogg.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drop It Like It's Hot (original)",
+      "artist": "Pharrell Williams",
+      "has_synced": false,
+      "path": "select/08_Drop_It_Like_It's_Hot_(original)_Pharrell_Williams.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Drop It Like Its Hot (ft Pharrell)",
+      "artist": "Snoop Dogg",
+      "has_synced": true,
+      "path": "select/09_Drop_It_Like_Its_Hot_(ft_Pharrell)_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Drop It - Jan Vervloet Mix",
+      "artist": "Jeffrey Sutorius feat. Jan Vervloet",
+      "has_synced": false,
+      "path": "select/10_Drop_It_-_Jan_Vervloet_Mix_Jeffrey_Sutorius_feat._Jan_Vervloet.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Drop It (Jan Vervloet Mix)",
+      "artist": "Jeffrey Sutorius",
+      "has_synced": false,
+      "path": "select/11_Drop_It_(Jan_Vervloet_Mix)_Jeffrey_Sutorius.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hey Baby (Drop It To The Floor)",
+      "artist": "Poylow feat. Kverz & Luc Rushmere",
+      "has_synced": false,
+      "path": "select/12_Hey_Baby_(Drop_It_To_The_Floor)_Poylow_feat._Kverz_&_Luc_Rushmere.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hey Baby (Drop It To The Floor)",
+      "artist": "Poylow",
+      "has_synced": false,
+      "path": "select/13_Hey_Baby_(Drop_It_To_The_Floor)_Poylow.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hey Baby (Drop It To the Floor)",
+      "artist": "Pitbull feat. T-Pain",
+      "has_synced": true,
+      "path": "select/14_Hey_Baby_(Drop_It_To_the_Floor)_Pitbull_feat._T-Pain.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hey Baby (Drop It to the Floor)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/15_Hey_Baby_(Drop_It_to_the_Floor)_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hey Baby (Drop It to the Floor)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/16_Hey_Baby_(Drop_It_to_the_Floor)_Pitbull.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drop It",
+      "artist": "¥ellow Bucks, WILYWNKA",
+      "has_synced": false,
+      "path": "select/pl_01_Drop_It_¥ellow_Bucks,_WILYWNKA.txt"
+    }
+  ]
+}
